@@ -1,6 +1,6 @@
-# lla
+# Language-learning-app
 
-A new Flutter project.
+A language learning app using Flutter. Currently under development.
 
 ## Getting Started
 
